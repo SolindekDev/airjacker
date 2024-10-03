@@ -1,2 +1,1 @@
-# airjacker
-An Open-Source device tool for wifi, bluetooth hacking
+# AirJacker - An Open-Source device tool for wifi, bluetooth hacking
